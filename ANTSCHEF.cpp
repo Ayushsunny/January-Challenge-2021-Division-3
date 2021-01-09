@@ -1,3 +1,5 @@
+//Partially Running Code, I got 30 Points
+
 #include <bits/stdc++.h>
 using namespace std;
 
